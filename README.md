@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Azadriano
+- 👋 Hi, I’m @CodingParrot
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Video Game Programming and Japanese
+- 🌱 I’m currently learning C#.
 
 <!---
 Azadriano/Azadriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
